@@ -1,2 +1,4 @@
 # Neural-Style-Transfer
-Using CNN to create new style image 
+Using CNN-Tensorflow to create new style image.
+For more detail : https://www.tensorflow.org/tutorials/generative/style_transfer
+
